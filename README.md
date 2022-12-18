@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @anddidonato
-- 👀 I’m interested in IP networking 
+- 👋 Hi, I'm Andrea Di Donato
+- 👀 I’m interested in IP networking (L3) and transport protocols (L4) but L0/1 and L2 too
 - 🌱 I’m currently learning Ansible  
 - 💞️ I’m looking to collaborate on Ansible
 - 📫 How to reach me: https://www.linkedin.com/in/andreadidonato/
